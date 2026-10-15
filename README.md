@@ -2,7 +2,8 @@
 
 This project analyzes a bank's telemarketing campaign data using SQL. The goal is to uncover insights about customer behavior, campaign success, and marketing effectiveness through well-structured queries involving joins, subqueries, window functions, and aggregate logic.
 
----
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/14bbc96a-be9f-4b5e-80cb-aba99f364e8a" />
+
 
 ## 📌 Project Objective
 
